@@ -4,14 +4,15 @@
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
 title = "Contact"
 menu = "main"
+weight=11
 +++
 
 # Nous contacter
 ## Le musée vivant est à votre écoute.
 ### Adresse postale
 
-Musée Vivant de l’Apiculture  
-La Cassine  
+Musée Vivant de l’Apiculture
+La Cassine
 45220 Château-Renard
 
 ### Téléphone

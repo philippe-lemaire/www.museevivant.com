@@ -4,6 +4,7 @@
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
 title = "Achats"
 menu = "main"
+weight=10
 +++
 
 # Achats

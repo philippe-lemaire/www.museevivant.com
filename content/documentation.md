@@ -4,6 +4,7 @@
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
 title = "Documentation"
 menu = "main"
+weight=2
 +++
 # Documentation
 
@@ -66,14 +67,14 @@ Cette fiche pédagogique a été réalisée par le Musée Vivant de l’Apicultu
 
 ![](/images/tout-savoir-sur-les-abeilles.jpg)
 
-Jacques Goût (éditions Hatier)  
+Jacques Goût (éditions Hatier)
 224 pages, disponible à la boutique du musée.
 
 ### Le Miel (mémo gisserot)
 
 ![](/images/memogisserot_200x300.jpg)
 
-Jacques Goût (éditions Jean-Paul Gisserot)  
+Jacques Goût (éditions Jean-Paul Gisserot)
 64 pages, disponible à la boutique du musée (2,80€).
 
 ### 250 réponses aux questions d’un ami des abeilles
