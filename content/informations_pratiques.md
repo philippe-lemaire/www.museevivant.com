@@ -4,6 +4,7 @@
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
 title = "Informations pratiques"
 menu = "main"
+weight=3
 +++
 
 # Informations pratiques

@@ -33,7 +33,7 @@ Le cadre du musée est celui d’une ferme gâtinaise traditionnelle à Château
 
 Dominique et Jacques Goût vous accueillent en personne et partagent avec vous leur passion pour les équilibres de la nature et le monde des abeilles.
 
-![vue aérienne du musée](/images/museevivant-aerienne.jpg)
+![vue aérienne du musée](/images/museevivant-aerienne.jpg)  
 *Vue aérienne du musée*
 
 Les champs alentour illustrent le paysage gâtinais. Nous sommes situés à 1km seulement du centre de Château-Renard, agréable bourgade gâtinaise avec remparts médiévaux et maisons à colombages.
@@ -47,12 +47,10 @@ Le miel est le plus vieux dessert du monde. Il fait l’objet de célébrations 
 
 Six maquettes, dont une animée avec des automates, replacent l’apiculture à travers les siècles. On y voit aussi bien les ruchers égyptiens sur les rives du Nil, que les lancers de ruches lors d’attaques moyen-âgeuses.
 
-![La boutique du musée](/images/fleurboutique_400.jpg)
-
+![La boutique du musée](/images/fleurboutique_400.jpg)  
 *La boutique du musée*
 
-![Une maquette animée avec des automates illustre l'apiculture gâtinaise traditionnelle](/images/automates.jpg)
-
+![Une maquette animée avec des automates illustre l'apiculture gâtinaise traditionnelle](/images/automates.jpg)  
 *Une maquette animée avec des automates illustre l’apiculture gâtinaise traditionnelle*
 
 ## Une visite pédagogique
@@ -83,7 +81,7 @@ Toutes les visites sont ponctuées par une dégustation qui se passe dans une sa
 - **Visite de groupes d’enfants (écoles, centres de loisirs…) :** Autour de la grande table, les enfants reçoivent chacun un peu de miel et un morceau de pain d’épice. Pour les uns c’est une découverte, pour d’autres une sorte de récompense.
 - **Visite de groupes d’adultes :** La dégustation a été préparée à l’avance avec des assiettes garnies de toasts de différentes sortes de miel, de toasts avec miel et fromage blanc, de pain d’épice. Les pots de miel sont également en libre service sur la table avec une corbeille de pain. Du cidre bouché maison, mis à volonté, accompagne cette dégustation-collation. Autour des grandes tables la bonne humeur est de rigueur.
 
-![La salle de dégustation avant l'arrivée d'un groupe](/images/degusok1_400.jpg)
+![La salle de dégustation avant l'arrivée d'un groupe](/images/degusok1_400.jpg)  
 *La salle de dégustation avant l’arrivée d’un groupe*
 
 Tous les miels proposés à la dégustation sont ceux que nous produisons sur l’exploitation. Aussi suivant les saisons et les années des variations sont possibles dans la gamme des miels disponibles.
@@ -136,5 +134,5 @@ Ne manquez pas le panorama depuis les remparts entourant l’église.
 
 Prenez aussi le temps de vous promener dans le petit centre historique, avec ses maisons à pans de bois entre les bras de la rivière.
 
-![Jeanne d’Arc aurait passé une nuit dans cette maison.](/images/maisonjeannedarc.jpg)
+![Jeanne d’Arc aurait passé une nuit dans cette maison.](/images/maisonjeannedarc.jpg)  
 *Jeanne d’Arc aurait passé une nuit dans cette maison.*
