@@ -10,9 +10,10 @@ menu = "main"
 
 # Accueil
 
-Les visites se font EXCLUSIVEMENT sur rendez-vous préalable pris par courriel ou de préférence par téléphone.
+**NB Les visites se font EXCLUSIVEMENT sur rendez-vous préalable pris par courriel ou de préférence par téléphone.**
 
-Merci de votre compréhension et au plaisir de partager avec vous notre passion pour le monde des abeilles et des fleurs.
+**Merci de votre compréhension et au plaisir de partager avec vous notre passion pour le monde des abeilles et des fleurs.**
+
 Bienvenue à tous !
 
 ![test image](/images/deb23.jpg)
